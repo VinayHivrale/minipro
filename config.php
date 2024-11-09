@@ -1,8 +1,8 @@
 <?php
 // config.php
-$servername = "localhost";
-$username = "root"; // Change this if necessary
-$password = ""; // Change this if necessary
+$servername = "database-1.c5k4ul5ztjqm.us-east-1.rds.amazonaws.com";
+$username = "admin"; // Change this if necessary
+$password = "0aQ2YeuMkEomEIFqnXun"; // Change this if necessary
 $dbname = "recipes_db";
 
 // Create connection
